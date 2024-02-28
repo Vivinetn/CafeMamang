@@ -1,0 +1,29 @@
+Vivinn	: 
+Low 3
+High 1
+Medium 6 
+
+Destaria: 
+Low 5
+High 0
+Medium 4
+
+Laura	: 
+Low 5
+High 1
+Medium 3
+
+Hillie	: 
+Low 3
+High 1
+Medium 2
+
+Bhensen	: 
+Low 1
+High 2
+Medium 3
+
+Semua	:
+Low 0
+High  2
+Medium 1

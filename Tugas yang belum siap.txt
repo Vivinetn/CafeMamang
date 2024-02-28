@@ -1,0 +1,3 @@
+Tugas yang belum siap:
+
+1. Translate Indo->Inggris Bootstrap 3
